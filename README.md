@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhantmathur23&label=Profile%20views&color=0e75b6&style=flat" alt="sidhantmathur23" /> </p>
+- 📚 I am looking for guidance in Data Structures and Algorithms 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SidhantMathur23](https://github.com/SidhantMathur23)
 
