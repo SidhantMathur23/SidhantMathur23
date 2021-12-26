@@ -1,4 +1,4 @@
-<h1 align="center">Hey!👋, I'm Sidhant Mathur</h1>
+<h1 align="center">Hey!, I'm Sidhant Mathur 👋</h1>
 <h3 align="center">I can’t help but notice that ‘awesome’ ends in ‘me.’</h3>
 <br>
 
