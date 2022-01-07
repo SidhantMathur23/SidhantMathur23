@@ -1,5 +1,5 @@
 <h1 align="center">Hey!, I'm Sidhant Mathur 👋</h1>
-<h3 align="center">I can’t help but notice that ‘awesome’ ends in ‘me.’</h3>
+<h3 align="center">I can’t help but notice...‘awesome’ ends in ‘me.’</h3>
 <br>
 
 <img src="https://user-images.githubusercontent.com/79369289/147403603-a39fd053-e481-4025-b087-46b6f513b8c5.gif" width="350" height="250" align="right">
